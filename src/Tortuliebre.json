@@ -1,0 +1,7 @@
+{
+  "laps": 20 ,
+  "delay": 0.10,
+  "sleepTime": 5,
+  "turtle": 10,
+   "hare": 10
+}
